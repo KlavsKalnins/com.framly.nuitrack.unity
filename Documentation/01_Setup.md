@@ -11,6 +11,6 @@
     <br><br>
 
 3. **Install [Nuitrack Additives](https://github.com/KlavsKalnins/com.framly.nuitrack.unity.git)**
-    - install this git repo by Unity Package Manager(UPM) `https://github.com/KlavsKalnins/com.framly.nuitrack.unity.git` (optionaly you can provide a specific version by github tags)
+    - install this git repo by Unity Package Manager(UPM) `https://github.com/KlavsKalnins/com.framly.nuitrack.unity.git` (optionaly you can provide a specific version by github tag `https://github.com/KlavsKalnins/com.framly.nuitrack.unity.git#v0.0.2` make sure that a relese/tag is published)
     - if there are no errors then install package sample to test it
     <br><br>
