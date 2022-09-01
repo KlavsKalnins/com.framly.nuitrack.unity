@@ -1,0 +1,30 @@
+{
+  "name": "com.framly.nuitrack.unity",
+  "version": "0.0.0",
+  "displayName": "Framly Nuitrack Additives",
+  "description": "Nuitrack scripts that can be handy to have",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity-atoms.unity-atoms-base-atoms": "4.4.5",
+    "com.unity-atoms.unity-atoms-core": "4.4.5"
+  },
+  "keywords": [
+    "framly",
+    "nuitrack",
+    "scripts",
+    "ui"
+  ],
+  "author": {
+    "name": "Klavs",
+    "email": "klavskalninss@gmail.com",
+    "url": "https://github.com/KlavsKalnins"
+  },
+  "samples": [
+    {
+      "displayName": "Framly Nuitrack Sample Scene",
+      "description": "Minimal Setup",
+      "path": "Samples~/SampleFramly"
+    }
+  ]
+}

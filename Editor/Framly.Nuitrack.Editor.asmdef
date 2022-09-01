@@ -1,0 +1,19 @@
+{
+    "name": "Framly.Nuitrack.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:29492541a59d04a81b47a7f225e8a22d",
+        "GUID:ac74710201791dc478744f6261cb117f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
