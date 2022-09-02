@@ -30,7 +30,6 @@ namespace Framly.Nuitrack
 
         public void ValidateEvents(int value)
         {
-            Debug.Log(value);
             if (_cachedInt == value)
                 return;
             _cachedInt = value;

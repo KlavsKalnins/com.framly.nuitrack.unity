@@ -27,8 +27,8 @@ Runtime scripts are organised into meaningful folders.
 <br>
 
 ### **Managers**
-- **ManagerUsers** - sets the NuitrackAvatar current user
-- **UserValidator** - sets the NuitrackAvatar current user
+- **ManagerUsers** - Manages user count, user space, logic for only one user
+- **UserValidator** - Validates if user is between 1 and 6 as these numbers is the user ID's
 
 <br>
 
